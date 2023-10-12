@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="110.0dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100.0dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@drawable/backgroundcrop"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:orientation="horizontal"
+            >
+
+
+            <!--name_ex_exs_list_tab2 от этого будет идти зависимость или от _id_ex номер строк в таблице-->
+
+            <TextView
+                android:id="@+id/_id_ex"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:text="00"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:fontFamily="@font/barbie"
+                android:textSize="24dp"
+                android:textAllCaps="true"
+                android:textColor="#ff000000"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:layout_margin="10.0dp"
+                android:layout_weight="1.0"
+                android:orientation="vertical"
+                >
+
+
+                <!--name_ex_exs_list_tab2 от этого будет идти зависимость или от _id_ex номер строк в таблице-->
+
+                <TextView
+                    android:id="@+id/name_ex_exs_list_tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="name_ex"
+                    android:fontFamily="@font/barbie"
+                    android:textSize="16dp"
+                    android:textAllCaps="true"
+                    android:textColor="#ff000000"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/diff_ex_exs_list_tab2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="diff_ex"
+                    android:fontFamily="@font/bartex"
+                    android:textSize="14.0dp"
+                    android:layout_gravity="left"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.0"
+                >
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/gif_id_ex_exs_list_tab2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/winking_ken" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

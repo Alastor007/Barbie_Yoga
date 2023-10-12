@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/tr_girl_barb" >
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <androidx.appcompat.widget.Toolbar
+                android:layout_width="fill_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="?colorPrimaryDark"
+                >
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="barbie_details_goback"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/baseline_keyboard_arrow_left_24"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/bartex"
+                    android:paddingLeft="10.0dp"
+                    android:text="Barbie training - Details"
+                    android:textColor="#FFF"
+                    android:textSize="24dp"
+                    android:textStyle="bold" />
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/bow_pose_1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:orientation="horizontal"
+            >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.0"
+                >
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/barbie_gif_id_ex_exs_list_tab2_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/smiling_barbie" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:orientation="horizontal"
+            android:background="@drawable/backgroundcrop"
+            >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:layout_margin="10.0dp"
+                android:layout_weight="1.0"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:id="@+id/barbie_name_ex_exs_list_tab2_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="name_ex"
+                    android:fontFamily="@font/barbie"
+                    android:textSize="20dp"
+                    android:textAllCaps="true"
+                    android:textColor="#ff000000"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:padding="5.0dp"/>
+
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/barbie_text_view_countdown"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:text="01:00"
+        android:fontFamily="@font/barbie"
+        android:textSize="30dp"
+        android:textColor="@color/blue3"
+        android:padding="15dp"
+        android:background="@drawable/button_ji" />
+
+    <Button
+        android:id="@+id/barbie_button_start_pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_bg"
+        android:gravity="center"
+        android:text="START"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/barbie"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/barbie_button_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_repeat"
+        android:fontFamily="@font/barbie"
+        android:gravity="center"
+        android:text="REPEAT"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+</LinearLayout>

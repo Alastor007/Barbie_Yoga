@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/details_barb" >
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <androidx.appcompat.widget.Toolbar
+                android:layout_width="fill_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="?colorPrimaryDark"
+                >
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="exs_details_goback"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/baseline_keyboard_arrow_left_24"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/bartex"
+                    android:paddingLeft="10.0dp"
+                    android:text="Exercises list - Details"
+                    android:textColor="#FFF"
+                    android:textSize="24dp"
+                    android:textStyle="bold" />
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/bow_pose_1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:orientation="horizontal"
+            >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.0"
+                >
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/gif_id_ex_exs_list_tab2_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/for_list_exs" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <!--Про упражнение-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:orientation="horizontal"
+            android:background="@drawable/backgroundcrop"
+            >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:layout_margin="10.0dp"
+                android:layout_weight="1.0"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:id="@+id/name_ex_exs_list_tab2_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="name_ex"
+                    android:fontFamily="@font/barbie"
+                    android:textSize="20dp"
+                    android:textAllCaps="true"
+                    android:textColor="#ff000000"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:padding="5.0dp"/>
+
+                <TextView
+                    android:id="@+id/diff_ex_exs_list_tab2_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="diff_ex"
+                    android:fontFamily="@font/bartex"
+                    android:textSize="18.0dp"
+                    android:layout_gravity="center"
+                    android:padding="5.0dp"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.0"
+                android:gravity="center"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:id="@+id/iooo_ex_exs_list_tab2_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5.0dp"
+                    android:layout_marginLeft="10sp"
+                    android:text="00:00"
+                    android:fontFamily="@font/roboto_italic"
+                    android:textColor="@color/red4"
+                    android:textStyle="bold"
+                    android:textSize="24dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:fontFamily="@font/roboto_italic"
+                    android:padding="5.0dp"
+                    android:text="time"
+                    android:textAllCaps="true"
+                    android:textColor="@color/red4"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="0dp"
+        android:text="@string/how_to_do_this"
+        android:textColor="@color/pink3"
+        android:fontFamily="@font/barbie_font"
+        android:textSize="20dp"
+        android:padding="7dp"
+        android:textStyle="bold"
+        android:background="@drawable/button_ji"
+
+        />
+
+
+    <!--Техника выполнения-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10.0dp"
+        android:paddingRight="10.0dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="horizontal"
+            android:background="@drawable/backgroundcrop"
+            android:paddingLeft="10.0dp"
+            android:paddingRight="10.0dp"
+            >
+
+            <TextView
+                android:id="@+id/text_time_ex_exs_list_tab2_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text_for_technique"
+                android:textColor="@android:color/black"
+                android:fontFamily="@font/roboto_italic"
+                android:textSize="18dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

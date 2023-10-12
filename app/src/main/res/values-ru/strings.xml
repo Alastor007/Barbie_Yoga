@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Barbie Yoga</string>
+
+
+    <string name="pose1">     Шаг 1: Начните с позиции отжимания, держа руки полностью прямыми и прямо под плечами.\n\n
+                              Шаг 2: Ваше тело должно образовывать прямую линию от плеч до лодыжек.\n\n
+                              Шаг 3: Напрягите пресс, поднимите одну ногу от пола и поднимите колено к груди, сохраняя при этом тело как можно более прямым.\n\n
+                              Шаг 4: Вернитесь в исходное положение и повторите движение противоположной ногой.</string>
+    <string name="pose2">    Шаг 1: Лягте на спину на мате с подогнутыми коленями и ногами на мате. Руки у основания вашей головы, локти направлены наружу. Используя мышцы живота, поднимите голову и плечи с мата в crunch, затем медленно опуститесь с контролем.</string>
+    <string name="pose3">    Шаг 1: Это движение выполняется с помощью скамьи и стула.\n\n
+                             Шаг 2: Разместите скамью позади себя и опирайтесь на нее руками. Вытяните ноги вперед. Вы также можете поднять их на уровень, как показано выше.\n\n
+                             Шаг 3: Начните с рук, полностью выпрямив их. Медленно сгибайте локти, сохраняя при этом тело прямым. Обязательно держите локти назад и близко друг к другу.\n\n
+                             Шаг 4: Опуститесь до тех пор, пока ваши руки не образуют угол 90 градусов, и вы почувствуете растяжение в трехглавой мышце. \n\n
+                             Шаг 5: Медленно выпрямляйте руки, поднимая тело вверх. Поставьте паузу и сокращайте мышцы трехглавой в верхней точке. Поставьте паузу и повторите движение.</string>
+    <string name="pose4">    Шаг 1: Лягте на пол с нижней частью спины прижатой к полу (сжимайте живот, чтобы также затронуть глубокие мышцы живота).\n\n
+                             Шаг 2: Положите руки за голову, затем притяните колени к груди и поднимите лопатки с пола, но не тяните за шею.\n\n
+                             Шаг 3: Вытяните правую ногу под углом около 45 градусов к полу, поворачивая верхнюю часть тела влево и приближая правый локоть к левому колену.\n\n
+                             Шаг 4: Убедитесь, что двигается ваша реберная клетка, а не только локти. Затем переключитесь на другую сторону и сделайте тоже самое движение, чтобы завершить одно повторение.</string>
+    <string name="pose5">    Шаг 1: Лягте на спину с руками по бокам для поддержки.\n\n
+                             Шаг 2: Поднимите ноги так, чтобы они не касались пола, напрягая мышцы живота.\n\n
+                             Шаг 3: Медленно поднимите ноги на 90 градусов, сокращая мышцы живота. Медленно вернитесь в исходное положение. Не касайтесь пола ногами.</string>
+
+    <string name="pose6">    Шаг 1: Лягте на спину на фитнес-мате. Руки прямые по бокам, колени согнуты, а стопы находятся на полу на расстоянии 18-24 дюймов друг от друга.\n\n
+                             Шаг 2: Выдохните, слегка сгибайте пресс вверх и в сторону вправо на пару дюймов, пока ваша правая рука не коснется правой пятки.\n\n
+                             Шаг 3: Задержитесь на мгновение, затем вернитесь в исходное положение вдыхая. Повторите на левой стороне.</string>
+    <string name="pose7">    Шаг 1: Вы можете выполнять скручивания с прямыми ногами, лежа лицом вверх на полу, выпрямив ноги, а затем двигая верхней частью тела, как при стандартном скручивании с согнутыми коленями.\n\n
+                             Шаг 2: Альтернативно лягте на спину, поднимите ноги так, чтобы они были перпендикулярны полу, а затем выполните стандартное скручивающее движение туловищем.</string>
+    <string name="pose8">    Шаг 1: Лягте на пол, поставив ноги либо под что-то неподвижное, либо попросив партнера держать их. Ноги должны быть согнуты в коленях. Руки заведите за голову и соедините их, сцепив пальцы. Это исходная позиция.\n\n
+                              Шаг 2: Поднимите верхнюю часть тела так, чтобы бедра образовали воображаемую V-образную форму. Выдохните при выполнении этой части упражнения.\n\n
+                              Шаг 3: Как только вы почувствуете сокращение на секунду, опустите верхнюю часть тела обратно в исходное положение на вдохе. \n\n
+                              Шаг 4: Повторите рекомендуемое количество повторений.
+                            </string>
+    <string name="pose9">    Шаг 1: Лежа на спине, поднимите прямую ногу, вытяните противоположную руку и коснитесь пальца ноги. \n\n Шаг 2: — Пожалуйста, вернитесь, поочередно вдохните вниз и выдохните вверх при касании пальцев ног.</string>
+    <string name="pose10">    Шаг 1: Позиция высокой планки, затем медленно поверните туловище в сторону, поднимая руку, пока она не соприкоснется с другой. \n\n
+                              Шаг 2:- Затем вернитесь в исходное положение.</string>
+    <string name="pose11">    Шаг 1: Лягте на пол, положив локти прямо под плечи и полностью вытянув ноги.\n\n
+                              Шаг 2: Поднимите туловище в воздух, пока оно не образует прямую линию от плеч до лодыжек. Втяните живот, сожмите попу.</string>
+    <string name="pose12">    Шаг 1: Лягте на пол, поставив ноги либо под что-нибудь неподвижное, либо попросив партнера держать их. Ваши ноги должны быть согнуты в коленях. Поднимите верхнюю часть тела так, чтобы бедра образовали воображаемую V-образную форму. \n\n
+                              Шаг 2: Ваши руки должны быть полностью вытянуты перед собой перпендикулярно туловищу и сложены в кулаки. Это исходная позиция.\n\n
+                              Шаг 3: — Это исходное положение. На выдохе поверните туловище вправо до тех пор, пока руки не станут параллельны полу. \n\n
+                              Шаг 4: Задержите сокращение на секунду и вернитесь в исходное положение, выдыхая. Теперь перейдите на противоположную сторону, выполняя те же приемы, которые вы применяли к правой стороне. Повторите рекомендованное количество повторений.</string>
+    <string name="pose13">    Шаг 1: Лягте на спину, согнув колени, поставив ступни на ширину бедер. \n\n
+                              Шаг 2: Опустите таз на 2 дюйма от пола. Сожмите ягодицы и поднимите таз обратно в положение моста.</string>
+    <string name="pose14">    Шаг 1: Лягте лицом вниз на пол, вытянув руки перед собой и вытянув ногу позади себя. \n\n
+                              Шаг 2: Одним движением задействуйте ягодицы и поясницу, чтобы поднять руки, ноги и грудь от пола.\n\n
+                              Шаг 3: — Задержитесь на счет, затем медленно вернитесь в исходное положение.</string>
+    <string name="pose15">   Шаг 1: Встаньте, вытяните руки на 90° в стороны, наклонитесь вперед на 90° в талии.\n\n
+                              Шаг 2: — Глядя на пол, поверните туловище, чтобы коснуться руки и ноги, поверните другую руку. \n\n
+                              Шаг 3: Голова следует за движением груди. </string>
+
+
+
+    <string name="login">Логин</string>
+    <string name="email">Имейл</string>
+    <string name="password">Пароль</string>
+    <string name="register">Регистрация</string>.
+    <string name="click_to_login">Нажмите для входа</string>
+    <string name="click_to_register">У вас уже есть аккаунт</string>
+    <string name="logout">Выйти</string>
+    <string name="yoga_app_bar">Барби Йога</string>
+    <string name="how_to_be_like_ken">Как стать похожим на Кена</string>
+    <string name="how_to_become_a_barbie">Как стать Барби</string>
+    <string name="how_to_do_this">Как сделать это</string>
+    <string name="days_55">Дней 55</string>
+    <string name="every_day_36_min">Каждый день 36 МИН</string>
+    <string name="get_started">Вперёд</string>
+    <string name="days_65">Дней 65</string>
+    <string name="every_day_18_min">Каждый день 18 МИН</string>
+    <string name="nutrition_or_tips">Питание и советы</string>
+    <string name="free_advice_for_everyone">Бесплатные консультации для всех</string>
+    <string name="mountaion_climber">Mountaion Climber</string>
+    <string name="repeate_3_time">Repeate 3 Time</string>
+    <string name="_01_00_min">01:00 MIN</string>
+    <string name="basic_climber">BASIC CLIMBER</string>
+    <string name="bench_dips">Bench dips</string>
+    <string name="bicycle_crunch">Bicycle crunch</string>
+    <string name="repeate_2_time">Repeate 2 Time</string>
+    <string name="leg_raise">Leg Raise</string>
+    <string name="alternative_heel_touch">Alternative Heel touch</string>
+    <string name="leg_up_crunches">Leg up Crunches</string>
+    <string name="sit_up">Sit Up</string>
+    <string name="alternative_v_ups">Alternative V UPS</string>
+    <string name="plank_rotaion">Plank rotaion</string>
+    <string name="plank_with_left">Plank with left</string>
+    <string name="russian_twist">Russian Twist</string>
+    <string name="bridge">Bridge</string>
+    <string name="vertica_leg_crunches">Vertica Leg crunches</string>
+    <string name="wind_mill">Wind Mill</string>
+
+
+    <!--Reasons for not growing height:-->
+
+
+
+    <string-array name="title_story">
+
+        <item>-1-</item>
+        <item>Постройте больше мышц</item>
+        <item>Замените кофе на матча зеленый чай</item>
+        <item>Просто продолжайте двигаться</item>
+        <item>Прекратите считать калории</item>
+        <item>Возьмите гирю</item>
+
+        <item>-2-</item>
+        <item>Занимайтесь йогой</item>
+        <item>Станьте интенсивнее</item>
+        <item>Не спите допоздна</item>
+        <item>Сделайте один прием пищи веганским</item>
+        <item>Пойдите на зеленый путь</item>
+
+        <item>-3-</item>
+        <item>Наслаждайтесь лимонной водой</item>
+        <item>Установите ясные цели</item>
+        <item>Подкрепитесь перед тренировкой</item>
+        <item>И подкрепитесь после</item>
+        <item>Прыгайте</item>
+
+        <item>-4-</item>
+        <item>Получайте не менее 7 часов сна</item>
+        <item>Пройдите через кризис</item>
+        <item>Исключите пшеницу</item>
+        <item>Измените свою тренировку</item>
+        <item>Работайте над мышцами живота 3 дня в неделю</item>
+
+    </string-array>
+
+
+    <string-array name="details_story">
+
+
+
+        <item>Buga</item>
+        <item>Наращивайте мышечную массу:-\n\n1. На первый взгляд это может показаться нелогичным, но наращивание мышечной массы — один из лучших способов улучшить метаболизм. Более высокая скорость метаболизма означает, что ваше тело может сжигать больше жира, в том числе жира вокруг талии. Это важный шаг на пути к получению результатов с 6 кубиками, потому что независимо от того, сколько скручиваний вы сделаете, вы не увидите всю свою тяжелую работу без сжигания жира. Так что займитесь гирями!</item>
+        <item>Замените кофе зеленым чаем матча:-\n\n2. Употребление термогенных продуктов, например тех, которые содержат кофеин, является еще одним эффективным способом ускорить обмен веществ. Хотя кофе подойдет, зеленый чай матча еще полезнее для вашего здоровья, и он не вызывает нервозности. Попробуйте здесь — Зеленый чай матча Green Foods.</item>
+        <item>Просто продолжайте двигаться:-\n\n3. Исследования показывают, что даже самые незначительные движения, такие как ерзание или постукивание пальцами ног, на самом деле могут сжечь много калорий. И сжигание большего количества калорий является важным шагом к достижению шести кубиков пресса. Поэтому продолжайте двигаться в течение дня и старайтесь не сидеть слишком долго.</item>
+        <item>Перестаньте считать калории:-\n\n4. Я никогда не был большим поклонником подсчета калорий. Это вводит в заблуждение и позволяет игнорировать питательную ценность вашей пищи. Вместо того, чтобы считать калории, поставьте перед собой цель есть только цельные продукты и исключить из рациона обработанные и упакованные продукты.</item>
+        <item>Возьмите гирю:-\n\n5. Гири — отличная альтернатива гантелям, и их можно использовать для различных интенсивных упражнений на все тело, которые отлично подходят для приведения в форму пресса и корпуса. (Смотрите мою 15-минутную тренировку с гирями-убийцами здесь) </item>
+
+        <item>Uga</item>
+        <item> Do Yoga:-\n\n6. You may be surprised, but yoga is a great way to get 6 pack abs. Yoga involves a lot of balance and flexibility training, both of which require muscles that you normally don’t work out. And of all the muscles engaged, your abdominal and core muscles are doing a lot of the work. See better 6 pack results by adding a little yoga into your routine. If you’re a beginner, check out this Gaiam Yoga for Beginners Kit .
+        </item>
+        <item>Get Intense:-\n\n7. Total body fitness is really about quality over quantity. Spending hours in the gym or getting in a long treadmill workout simply won’t cut it. For real results, you need to get intense. Aim for shorter intervals of more intense exercise, no matter what you’re doing. (An excellent resource is our 5 Day Total Body Toning Workout).
+        </item>
+        <item>Stop Sleeping In:-\n\n8. If you want to achieve real 6 pack success, you’ve got to get motivated. Hitting the snooze button is not the best way to start your day. Get up, and hammer out that morning workout to start things off on the right foot.
+        </item>
+        <item>Make One Meal a Day Vegan:-\n\n9. Reducing your intake of animal protein can help improve your health in a number of ways, according to new research. In addition to reducing cholesterol and getting your blood sugar levels in check, you’ll also reduce some of that body fat. Try going vegan for one meal a day.
+        </item>
+        <item>Go Green:-\n\n 10. An easy way to add more nutrition to your diet is to invest in a plant-based supplement like Amazing Grass Green SuperFood Powder. Not only will you boost your metabolism and burn more fat, you’ll also feel more energized to knock out those ab workouts.
+        </item>
+
+        <item>Go</item>
+        <item>Enjoy Some Lemon Water:-\n\n 11.If you’re looking for a natural daily detox, simple lemon water works really well. Enjoy it hot in the mornings, or take it with you on the go. You’ll significantly improve your ability to lose weight.
+        </item>
+        <item>Set Clear Goals :-\n\n 12. Whether your goal is stronger abs or just a flatter waistline, you have to set some clear goals. Write your goals down, and come up with some specific ways to achieve them. And make sure your goals are practical!
+        </item>
+        <item> Fuel Up Before Your Workout:-\n\n 13.Giving your body the fuel it needs is key to maximizing your workouts. A pre-workout shake is a great way to get started, especially one that includes time released protein to keep fueling your muscles. Try Combat Powder to get great results.
+        </item>
+        <item> And Fuel Up After:- \n\n 14.Make sure you follow up every workout with a solid serving of protein, healthy carbs, and vitamin-rich food. This is necessary in order to get the most out of your efforts, and improve your recovery.
+        </item>
+        <item>Jump :-\n\n 15.  Jump training, also known as plyometrics, is a great way to engage your entire body and really challenge your core and abdominal muscles. Adding a little jump rope alone can go a long way. (This Jump Rope Interval Training Routine will kick your butt and really target fat loss)
+        </item>
+
+
+        <item>Now!</item>
+        <item>Get At Least 7 Hours Sleep:-\n\n 16. Getting a good night’s sleep can improve literally every aspect of your life, including your fitness and weight loss success. One night of poor sleep can lead to unwanted hunger spikes, nasty cravings, and lower energy. If you need some help sleeping, try Natrol Melatonin.
+        </item>
+        <item>Get Over the Crunch :-\n\n 17. Real 6 pack abs are not made by crunches alone. To see serious results, you’ve got to do more than just simple crunches. Grab a stability ball, a bosu ball, or get off the ground with a hanging leg raise. Whatever you do, keep pushing yourself.
+        </item>
+        <item>Drop the Wheat:-\n\n 18. There’s a lot of evidence out there to suggest that removing processed wheat from your diet can significantly improve your fat burning results, and that means a leaner, more toned, and more visible 6 pack. Give it a try, and go for less processed carbs like quinoa.
+        </item>
+        <item>Change Up Your Workout:-\n\n 19. Constantly changing up your workout is crucial to keep seeing results, whether your goal is a 6 pack or a more toned physique overall. I recommend adding a new exercise to your workout routine at least once a week, and make sure you make sure serious changes every 6-8 weeks.
+        </item>
+        <item>Work Your Abs 3 Days a Week:-\n\n 20.There are different philosophies to this, but I find the best approach to exercising your abs is to do so a few days a week, in shorter workouts that are combined with total body workouts. Try spending about 20 minutes on your abs and core 3 days a week – you may notice a big difference. This Total Ab Workout in 30 Minutes is a great place to start.
+        </item>
+
+    </string-array>
+
+
+</resources>
